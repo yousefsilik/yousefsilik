@@ -1,12 +1,6 @@
-<h3 align="center">
-  Welcome to Yousef silik's profile!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yousefsilik&label=Profile%20views&color=0e75b6&style=flat" alt="yousefsilik" /> </p>
 
 
-
-<h1 align="center">Hi 👋, I'm yousef silik</h1>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm yousef silik</h1>
 <h3 align="center">Aspiring Data Analyst</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yousefsilik&label=Profile%20views&color=0e75b6&style=flat" alt="yousefsilik" /> </p>
