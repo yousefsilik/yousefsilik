@@ -3,7 +3,11 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm yousef silik</h1>
 <h3 align="center">Aspiring Data Analyst</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yousefsilik&label=Profile%20views&color=0e75b6&style=flat" alt="yousefsilik" /> </p>
+
+
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Aspiring%20Data%20Analyst;welcome%20to%20my%20Portfolio&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
+</p> 
 
 - 🌱 I’m currently learning **Python**
 
@@ -25,3 +29,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yousefsilik&show_icons=true&locale=en" alt="yousefsilik" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yousefsilik&" alt="yousefsilik" /></p>
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=yousefsilik&label=Profile%20views&color=0e75b6&style=flat" alt="yousefsilik" /> </p>
